@@ -1,0 +1,9 @@
+{
+  "id": "youtube-search",
+  "name": "Youtube Search",
+  "description": "Finds youtube video metadata by the link",
+  "author": "Eugene Pustovit",
+
+  "minAppVersion": "0.11.0",
+  "version": "0.0.1"
+}
